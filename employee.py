@@ -1,8 +1,8 @@
-name=(intput("enter a employee name"))
-id=(input("enter a employee id"))
-age=(input("enter a employee age"))
-salary=(input("enetr a employee salary"))
-experience=(input("enetr a employee experience"))
+name="tanu"
+id=121
+age=20
+salary=10000
+experience=2
 
 printf("empolyee details:")
 print(f"employee name:{name}")
